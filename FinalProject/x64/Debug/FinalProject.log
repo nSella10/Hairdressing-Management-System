@@ -1,0 +1,17 @@
+﻿  Address.c
+  Appointment.c
+  Barber.c
+  BarberSalon.c
+  Branch.c
+  Client.c
+  Date.c
+  General.c
+  Kitchen.c
+  KitchenWorker.c
+  list.c
+  main.c
+  Product.c
+  Schedule.c
+  Supplier.c
+  Generating Code...
+  FinalProject.vcxproj -> C:\Users\noams\Project\Hair_Dressing\x64\Debug\FinalProject.exe

@@ -1,0 +1,10 @@
+3
+AAA
+Cafe
+150
+BBB
+Bamba
+100
+CCC
+Coca Cola
+85

@@ -1,0 +1,25 @@
+3
+aaa
+israel
+Tel aviv
+Shenkin
+50
+0
+1
+3
+bbb
+israel
+Tel aviv
+Bialik
+10
+0
+1
+3
+ccc
+israel
+Rishon lezion
+Rothschild
+22
+0
+1
+3
