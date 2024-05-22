@@ -40,7 +40,7 @@ printing all Barbers that relate to the Branch.
 
 -   Data Compression Methods
 
--   Graphical User Interfaces (GUIs)
+-    User Interfaces 
 
 
 
